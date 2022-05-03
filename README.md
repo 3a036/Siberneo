@@ -1,4 +1,4 @@
-# Siberneo (Build 24.59701)
+# Siberneo v6.1 (Build 24.59701)
 
 Integrated Super Cognitive Architecture Service+ M
 
